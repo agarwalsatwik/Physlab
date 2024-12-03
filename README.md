@@ -1,2 +1,2 @@
 # Physlab
-The ultimate Physics library to aid with all kinds of computational processes regarding physics.
+The ultimate Physics library to aid with computational processes regarding physics.
